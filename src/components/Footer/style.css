@@ -1,0 +1,14 @@
+.footer {
+  background: dimgray;
+  position: relative;
+}
+
+.footer span {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  background: dimgray;
+  color: white;
+}
