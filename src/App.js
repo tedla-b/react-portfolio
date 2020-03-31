@@ -15,6 +15,7 @@ function App() {
                 <Wrapper>
                     <Route exact path="/" component={About} />
                     <Route exact path="/portfolio" component={Portfolio} />
+                    
                 </Wrapper>
                 <Footer />
             </div>

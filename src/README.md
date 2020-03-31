@@ -1,4 +1,4 @@
-# React Portfolio for Henry Hawm
+# React Portfolio for Tedla Betsuan
 
 This project is using react. It is to show an updated portfolio with past projects to build towards being employer competitive. 
 
@@ -13,4 +13,5 @@ This project is using react. It is to show an updated portfolio with past projec
 ```
 ## Visit the page
 
-[HHawm Portfolio](https://hhawm.github.io "HHawm Portfolio")
+https://github.com/mekditd
+
